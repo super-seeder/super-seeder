@@ -24,7 +24,7 @@ Prices, models and the desktop app: [super-seeder.com/use](https://super-seeder.
 SEED is the project's token on Base. Credit holders are paid in SEED, and SEED stakers receive the project's net revenue every week.
 
 - Contract: [`0x89a0A44100628B1011EE69783cE867f26c32d07A`](https://basescan.org/token/0x89a0A44100628B1011EE69783cE867f26c32d07A) (verified source, no owner, no mint)
-- Fixed supply of 1,000,000,000, no sale and no team allocation
+- Fixed supply of 1,000,000,000, no sale, and no separate team allocation beyond the treasury, which is declared and not locked
 - SEED/VVV liquidity on Uniswap v3, held by a lock contract with no owner and no withdraw function
 - Every project contract, with links to check it: [super-seeder.com/docs/verify](https://super-seeder.com/docs/verify/)
 - Token page: [super-seeder.com/seed](https://super-seeder.com/seed/) · Tokenomics: [super-seeder.com/docs/tokenomics](https://super-seeder.com/docs/tokenomics/)
